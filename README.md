@@ -1,5 +1,5 @@
 <h3 align="center">
-  Welcome to <b>Sobhy Abdel Hakam</b>'s profile!
+  Hi, I'm <b>Sobhy Abdel Hakam</b>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
@@ -9,8 +9,9 @@
 </p> 
 
 - 👋 Hi, I’m @Sobhy-Abdelhakam
-- 👀 I’m interested in android development
-- 🌱 I’m currently learning Android Applications Developing
+- 🏫 I am a `CSE Fresh Graduate` at [Faculty of Engineering, Al-Azhar University](https://eng-azhar.net).
+- 🧑‍💻 I am a Software Engineer (Android Engineer).
+- 👀 I’m interested in learning new technologies in Android development
 - 💞️ I’m looking to collaborate on teamwork and love building apps
 
 ### Connect with Me:
